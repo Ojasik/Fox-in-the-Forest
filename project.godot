@@ -10,7 +10,7 @@ config_version=4
 
 [application]
 
-config/name="Jungle Jump"
+config/name="Fox in the Forest: Adventures in the Cave"
 run/main_scene="res://ui/TitleScreen.tscn"
 config/icon="res://player_icon.png"
 
