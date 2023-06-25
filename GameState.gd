@@ -1,6 +1,6 @@
 extends Node
 
-var num_levels = 2
+var num_levels = 4
 var current_level = 1
 
 var game_scene = 'res://Main.tscn'
