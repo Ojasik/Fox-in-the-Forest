@@ -11,7 +11,7 @@ func _ready():
 	$Player.connect('life_changed', $CanvasLayer/HUD, '_on_Player_life_changed')
 	$Player.connect('dead', self, '_on_Player_dead')
 	connect('score_changed', $CanvasLayer/HUD, '_on_score_changed')
-	score = 0
+	score = GameState.get_score() 
 	emit_signal('score_changed', score)
 	pickups.hide()
 	$Player.start($PlayerSpawn.position)
@@ -38,6 +38,7 @@ func spawn_pickups():
 func _on_Collectible_pickup():
 	score += 1
 	emit_signal('score_changed', score)
+	GameState.set_score(score) 
 
 func _on_Player_dead():
 	GameState.restart()
