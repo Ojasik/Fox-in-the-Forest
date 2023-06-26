@@ -25,10 +25,10 @@ position = Vector2( 0, -0.857178 )
 climb_speed = 50
 
 [node name="PlayerSpawn" parent="." index="6"]
-position = Vector2( 204, 460 )
+position = Vector2( 323, 528 )
 
 [node name="Door" parent="." index="8" instance=ExtResource( 3 )]
-position = Vector2( 283, 454 )
+position = Vector2( 29, 448 )
 
 [node name="Ladder" type="Area2D" parent="." index="9"]
 
