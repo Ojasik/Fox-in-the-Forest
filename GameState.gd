@@ -19,6 +19,9 @@ func next_level():
 	current_level += 1
 	if current_level <= num_levels:
 		get_tree().reload_current_scene()
+	else:
+		var endScreen = preload("res://levels/Level04.tscn").instance()
+		get_tree().get_root().add_child(endScreen)
 
 func get_score() -> int:
 	return score
