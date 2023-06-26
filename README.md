@@ -14,4 +14,4 @@ Taustiņi WASD vai bultiņas, lai pārvietotos.
 Atstarpe, lai lēktu (2 reizes).
 
 
-###Mēs ceram, ka jūs izbaudīsiet Fox in the Forest: Adventures in the Caves un pilnībā iemersieties šīs spēles aizraujošajā pasaulē. Lai jums veicas piedzīvojumos!
+### Mēs ceram, ka jūs izbaudīsiet Fox in the Forest: Adventures in the Caves un pilnībā iemersieties šīs spēles aizraujošajā pasaulē. Lai jums veicas piedzīvojumos!
