@@ -15,3 +15,5 @@ Atstarpe, lai lēktu (2 reizes).
 
 
 ### Mēs ceram, ka jūs izbaudīsiet Fox in the Forest: Adventures in the Caves un pilnībā iemersieties šīs spēles aizraujošajā pasaulē. Lai jums veicas piedzīvojumos!
+
+Saite uz Godot failu: https://failiem.lv/f/t349z8xg3
