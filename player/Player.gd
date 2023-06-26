@@ -30,7 +30,6 @@ func start(pos):
 
 func change_state(new_state):
 	state = new_state
-	# print("changing to ", state)
 	match state:
 		IDLE:
 			new_anim = 'idle'
