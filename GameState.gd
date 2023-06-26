@@ -26,11 +26,6 @@ func get_score() -> int:
 func set_score(new_score: int):
 	score = new_score
 
-func decrease_life():
-	score -= 1
-	if score < 0:
-		score = 0
-
 func set_player_name(name: String):
 	player_name = name
 
