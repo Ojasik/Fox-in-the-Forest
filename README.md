@@ -2,7 +2,7 @@
 Laipni lūdzam Fox in the Forest: Adventures in the Caves - aizraujošā 2D platformeris, kas izveidots, izmantojot Godot rīkprogrammatūru. Šajā spēlē jums nāksies ieņemt lapiņu lomu, kas pēta noslēpumainās alas, pilnas ar briesmām un piedzīvojumiem.
 
 ## Par projektu
-Šis projekts tika izstrādāts kā eksāmens, izmantojot Godot rīkprogrammatūru, un tā mērķis bija demonstrēt spēļu izstrādes prasmes. Fox in the Forest: Adventures in the Caves ir trīs trešā kursa programmētāju darba rezultāts, kuri vēlējās radīt aizraujošu un aizraujošu spēli ar unikālu atmosfēru.
+Šis projekts tika izstrādāts kā eksāmens, izmantojot Godot rīkprogrammatūru, un tā mērķis bija demonstrēt spēļu izstrādes prasmes. Fox in the Forest: Adventures in the Caves ir trešā kursa programmētāju darba rezultāts, kuri vēlējās radīt aizraujošu spēli ar unikālu atmosfēru.
 
 ## Spēles iezīmes
 - **Aizraujoša spēlējamība:** Jums būs jāpārvar daudzi līmeņi, kas ir pilni ar šķēršļiem un noslēpumiem. Lēciet, savāciet priekšmetus un izvairieties no briesmām, lai sasniegtu galveno mērķi.  
