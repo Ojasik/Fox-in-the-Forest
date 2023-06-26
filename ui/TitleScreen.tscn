@@ -1,9 +1,13 @@
-[gd_scene load_steps=7 format=2]
+[gd_scene load_steps=8 format=2]
 
 [ext_resource path="res://ui/TitleScreen.gd" type="Script" id=1]
 [ext_resource path="res://assets/environment/layers/back.png" type="Texture" id=2]
 [ext_resource path="res://assets/environment/layers/middle.png" type="Texture" id=3]
 [ext_resource path="res://assets/ThaleahFat.ttf" type="DynamicFontData" id=4]
+
+[sub_resource type="DynamicFont" id=4]
+size = 59
+font_data = ExtResource( 4 )
 
 [sub_resource type="DynamicFont" id=2]
 size = 79
@@ -67,6 +71,18 @@ margin_bottom = 680.0
 texture = ExtResource( 3 )
 stretch_mode = 2
 
+[node name="NameInput" type="LineEdit" parent="."]
+margin_left = 39.0
+margin_top = 323.0
+margin_right = 1008.0
+margin_bottom = 389.0
+custom_fonts/font = SubResource( 4 )
+align = 1
+placeholder_text = "Enter your name"
+__meta__ = {
+"_editor_description_": ""
+}
+
 [node name="Message" type="Label" parent="."]
 anchor_top = 1.0
 anchor_right = 1.0
@@ -84,7 +100,7 @@ Adventures in the caves
 
 
 Press Space to Play
-"
+press esc to exit"
 align = 1
 valign = 1
 
